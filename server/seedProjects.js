@@ -113,6 +113,15 @@ const projects = [
     githubUrl: 'https://github.com/asmaessafi/content-b-generator',
     featured: true,
     createdAt: new Date('2025-06-19').toISOString(),
+  },{
+    id: '11',
+    title: 'Machida MMA – Gym Management Platform',
+    description: 'Machida MMA Nabeul is my full-stack gym management system built with the MERN stack (MongoDB, Express.js, React, Node.js) and TypeScript. It enables gym owners to efficiently manage members, track workouts and achievements, schedule classes, and monitor real-time performance metrics through intuitive admin and user dashboards. Key features include member management, progress tracking, role-based access, and a clean, responsive UI powered by React, Tailwind CSS, and Vite. Designed with scalable architecture, modular components, and type safety for maintainability and future growth.',
+    imageUrl: '/machida.jpeg',
+    technologies: ['React', 'Tailwind CSS', 'TypeScript', 'Node.js', 'MongoDB', 'Express', 'Vite'],
+    liveUrl: 'https://youtu.be/-umcGdcq40I?si=q2r-87xKW4EDJQVf',
+    featured: true,
+    createdAt: new Date('2025-12-15').toISOString(),
   } 
 ];
 
