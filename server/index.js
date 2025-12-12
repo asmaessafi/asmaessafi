@@ -7,7 +7,6 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 // Routes
-import projectRoutes from './routes/projects.js';
 import contactRoutes from './routes/contact.js'; // ✅ NEW
 
 // Configuration
@@ -36,7 +35,6 @@ const upload = multer({ storage: storage });
 app.use('/uploads', express.static(path.join(__dirname, '../public/uploads')));
 
 // Routes
-app.use('/api/projects', projectRoutes);
 app.use('/api/contact', contactRoutes); // ✅ NEW
 
 // MongoDB Connection (✅ UNCOMMENTED FOR PRODUCTION)

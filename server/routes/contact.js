@@ -49,7 +49,9 @@ router.post('/', async (req, res) => {
   // Send Email
   try {
     const transporter = nodemailer.createTransport({
-      service: 'gmail',
+      host: process.env.SMTP_HOST || 'smtp.gmail.com',
+      port: Number(process.env.SMTP_PORT) || 465,
+      secure: true, // force TLS for production (works behind Render proxy)
       auth: {
         user: process.env.EMAIL_USER,
         pass: process.env.EMAIL_PASS,
@@ -62,7 +64,7 @@ router.post('/', async (req, res) => {
     });
 
     const mailOptions = {
-      from: process.env.EMAIL_USER, // Use configured email as sender
+      from: `"Portfolio" <${process.env.EMAIL_USER}>`, // Use configured email as sender
       replyTo: email, // Allow replies to go to the form submitter
       to: process.env.EMAIL_USER, // Send to configured email
       subject: `Portfolio Contact: ${subject}`,
