@@ -1,4 +1,4 @@
-// import express from 'express';
+import express from 'express';
 import { Resend } from 'resend'; // NEW: Import Resend
 import Contact from '../models/Contact.js';
 
