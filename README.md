@@ -81,11 +81,11 @@ Comprehensive training in front-end/back-end, modern frameworks, responsive appl
 
 | Certification                              | Issuer     | Issued          | Verification Link                                                                 |
 |--------------------------------------------|------------|-----------------|-----------------------------------------------------------------------------------|
-| Python Project for Data Science            | IBM / Coursera | Feb 11, 2026   | [Verify By Coursera](https://www.coursera.org/account/accomplishments/verify/I9ESRAHU7J4Z),  [Verify By IBM](https://www.credly.com/badges/20cac4fd-68c2-4faa-bc81-2d30e3f3b2e9/public_url)|
-| Python for Data Science and AI             | IBM / Coursera | Feb 4, 2026    | [Verify](https://www.coursera.org/account/accomplishments/verify/J5U6L62MEHOT)  |
-| Data Science Methodology                   | IBM / Coursera | Jan 28, 2026   | [Verify](https://www.coursera.org/account/accomplishments/verify/DUX7KBIHHOLA)  |
-| Tools for Data Science V2                  | IBM / Coursera | Jan 26, 2026   | [Verify](https://www.coursera.org/account/accomplishments/verify/27VVOVE601BH)  |
-| Data Science Orientation                   | IBM / Coursera | Jan 23, 2026   | [Verify](https://www.coursera.org/account/accomplishments/verify/11EOK4SHTWEF)  |
+| Python Project for Data Science            | IBM / Coursera | Feb 11, 2026   | [📄 Coursera](https://www.coursera.org/account/accomplishments/verify/I9ESRAHU7J4Z),  [🏅 Credly](https://www.credly.com/badges/20cac4fd-68c2-4faa-bc81-2d30e3f3b2e9/public_url)|
+| Python for Data Science and AI             | IBM / Coursera | Feb 4, 2026    | [📄 Coursera](https://www.coursera.org/account/accomplishments/verify/J5U6L62MEHOT),  [🏅 Credly](https://www.credly.com/badges/19150857-2f51-4020-9fd3-355ff267bd12/public_url)  |
+| Data Science Methodology                   | IBM / Coursera | Jan 28, 2026   | [📄 Coursera](https://www.coursera.org/account/accomplishments/verify/DUX7KBIHHOLA),  [🏅 Credly](https://www.credly.com/badges/226efda6-19ca-4f53-8978-3cddab39fd05/public_url)  |
+| Tools for Data Science V2                  | IBM / Coursera | Jan 26, 2026   | [📄 Coursera](https://www.coursera.org/account/accomplishments/verify/27VVOVE601BH),  [🏅 Credly](https://www.credly.com/badges/92b678a7-1360-47d7-aa96-7a970c404d9c/public_url)  |
+| Data Science Orientation                   | IBM / Coursera | Jan 23, 2026   | [📄 Coursera](https://www.coursera.org/account/accomplishments/verify/11EOK4SHTWEF),  [🏅 Credly](https://www.credly.com/badges/6efaf559-7c01-4b11-b43f-2e79ccc5e944/public_url) |
 | EF SET English Certificate – C1 Advanced   | EF SET    | Nov 18, 2025 | [English Certificate](https://cert.efset.org/en/BdTuQQ)         |
 | Software Developer Bootcamp                | GomyCode  | Apr 4th, 2025 | [Verify](https://diploma.gomycode.app/?id=31743775243665206)                 |
 | the Postman API Fundamentals Student Expert| Postman   | Jan 14, 2025 | [Verify](https://api.badgr.io/public/assertions/kYWJjEEsS26xUhd24dIw9w?identity__email=asmaessafi137%40gmail.com)  |
