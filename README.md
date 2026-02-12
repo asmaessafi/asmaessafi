@@ -88,7 +88,7 @@ Comprehensive training in front-end/back-end, modern frameworks, responsive appl
 | Data Science Orientation                   | IBM / Coursera | Jan 23, 2026   | [📄 Coursera](https://www.coursera.org/account/accomplishments/verify/11EOK4SHTWEF),  [🏅 Credly](https://www.credly.com/badges/6efaf559-7c01-4b11-b43f-2e79ccc5e944/public_url) |
 | EF SET English Certificate – C1 Advanced   | EF SET    | Nov 18, 2025 | [English Certificate](https://cert.efset.org/en/BdTuQQ)         |
 | Software Developer Bootcamp                | GomyCode  | Apr 4th, 2025 | [📄 Certificate](https://diploma.gomycode.app/?id=31743775243665206)                 |
-| the Postman API Fundamentals Student Expert| Postman   | Jan 14, 2025 | [🏅 Parchment Digital Badges (US)](https://badges.parchment.com/public/assertions/kYWJjEEsS26xUhd24dIw9w?identity__email=asmaessafi137@gmail.com)  |
+| the Postman API Fundamentals Student Expert| Postman   | Jan 14, 2025 | [🏅 Parchment Digital Badges (US)](https://badges.parchment.com/public/assertions/kYWJjEEsS26xUhd24dIw9w?identity__email=asmaessafi137%40gmail.com)  |
 | MongoDB Node.js Developer Path             | MongoDB   | Jan 10, 2025  | [📄 Certificate](https://learn.mongodb.com/c/5XnWlnMLTzu99s_Mm-zfQQ)           |
 
 
