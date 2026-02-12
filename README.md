@@ -2,17 +2,17 @@
 <h3 align="center">Full Stack MERN Developer | Exploring Data Science | Tunisia</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asma-essafi-a60a43331/" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/asma-essafi-a60a43331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:asmaessafi137@gmail.com" title="Email" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=social&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:asmaessafi137@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/asmaessafi" title="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.coursera.org/user/ba7052f7d06a1e55e3bf1925cb9a3451" title="Coursera" target="_blank">
-    <img src="https://img.shields.io/badge/-Coursera-0056D2?style=social&logo=coursera&logoColor=white" alt="Coursera">
+  <a href="https://www.coursera.org/user/ba7052f7d06a1e55e3bf1925cb9a3451">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
   </a>
 </p>
 
@@ -96,12 +96,12 @@ Comprehensive training in front-end/back-end, modern frameworks, responsive appl
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asmaessafi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaessafi&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaessafi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
