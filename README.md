@@ -55,15 +55,15 @@ Problem-Solving • Clean Code • Fast Learner • Team Collaboration • Detai
 
 - **Bazario – Multi-Vendor E-Commerce Platform** (MERN)  
   Vendor registration, store/product/inventory management, real-time order notifications, JWT auth, role-based dashboards  
-  <!-- [Repo](https://github.com/asmaessafi/bazario) • [Live](https://bazario-dry9.onrender.com/) -->
+  [Repo](https://github.com/asmaessafi/bazario) • [Live](https://bazario-dry9.onrender.com/)
 
 - **Modern Personal Portfolio** (Full-Stack)  
   Dynamic portfolio with admin panel, Framer Motion animations, Nodemailer contact form, full SEO optimization  
-  <!-- [Repo](https://github.com/asmaessafi/portfolio) • [Live](https://asma-essafi.onrender.com/) -->
+  [Repo](https://github.com/asmaessafi/asma_essafi) • [Live](https://asma-essafi.onrender.com/)
 
 - **Gym Management Platform** (React + TypeScript + Node/Express)  
   Member management, real-time performance tracking, class scheduling, achievement dashboards  
-  <!-- [Repo](https://github.com/asmaessafi/gym-management) • [Live](https://machida-mma-nabeul.onrender.com/) -->
+ [Repo](https://github.com/asmaessafi/machida-mma-nabeul) • [Live](https://machida-mma-nabeul.onrender.com/)
 
 ---
 
@@ -77,7 +77,6 @@ Comprehensive training in front-end/back-end, modern frameworks, responsive appl
 ---
 
 ### 🏆 Certifications
-*(Newest first – all Coursera/IBM ones are verifiable via the links below; add manual URLs for others when ready)*
 
 | Certification                              | Issuer     | Issued          | Verification Link                                                                 |
 |--------------------------------------------|------------|-----------------|-----------------------------------------------------------------------------------|
