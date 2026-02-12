@@ -3,16 +3,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asma-essafi-a60a43331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:asmaessafi137@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/asmaessafi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.coursera.org/user/ba7052f7d06a1e55e3bf1925cb9a3451">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=coursera&logoColor=white" alt="Coursera">
   </a>
 </p>
 
