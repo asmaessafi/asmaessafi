@@ -80,7 +80,7 @@ Comprehensive training in front-end/back-end, modern frameworks, responsive appl
 
 | Certification                              | Issuer     | Issued          | Verification Link                                                                 |
 |--------------------------------------------|------------|-----------------|-----------------------------------------------------------------------------------|
-| Data Analysis with Python  | IBM / Coursera | Apr 01, 2026   | [📄 Coursera](https://coursera.org/share/cbd87d5a4e48b0a7494505e3565c256d)|
+| Data Analysis with Python  | IBM / Coursera | Apr 01, 2026   | [📄 Coursera](https://coursera.org/share/cbd87d5a4e48b0a7494505e3565c256d) ,[🏅 Credly](https://www.credly.com/badges/817f587b-a0b9-40a1-b263-ace8249dc7cc/public_url)|
 | Databases and SQL for Data Science with Python  | IBM / Coursera | March 01, 2026   | [📄 Coursera](https://coursera.org/share/639d25eb8743b2454f43b85abd3c8428),  [🏅 Credly](https://www.credly.com/badges/25002162-3a06-4ce0-bbd4-0d630bb7d4fc/public_url)|
 | Python Project for Data Science            | IBM / Coursera | Feb 11, 2026   | [📄 Coursera](https://www.coursera.org/account/accomplishments/verify/I9ESRAHU7J4Z),  [🏅 Credly](https://www.credly.com/badges/20cac4fd-68c2-4faa-bc81-2d30e3f3b2e9/public_url)|
 | Python for Data Science and AI             | IBM / Coursera | Feb 4, 2026    | [📄 Coursera](https://www.coursera.org/account/accomplishments/verify/J5U6L62MEHOT),  [🏅 Credly](https://www.credly.com/badges/19150857-2f51-4020-9fd3-355ff267bd12/public_url)  |
