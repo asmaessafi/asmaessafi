@@ -80,6 +80,7 @@ Comprehensive training in front-end/back-end, modern frameworks, responsive appl
 
 | Certification                              | Issuer     | Issued          | Verification Link                                                                 |
 |--------------------------------------------|------------|-----------------|-----------------------------------------------------------------------------------|
+|Generative AI: Elevate Your Data Science Career| IBM / Coursera | Apr 30, 2026   | [📄 Coursera](https://coursera.org/share/0535b809145ef1d5ae37a72352dd9eb0) ,[🏅 Credly](https://www.credly.com/badges/80309a82-af9d-4ba5-8af3-165517f0ff1d/public_url)|
 | Applied Data Science Capstone | IBM / Coursera | Apr 28, 2026   | [📄 Coursera](https://coursera.org/share/a43a48706a8ba234d34509356304c521) ,[🏅 Credly](https://www.credly.com/badges/80309a82-af9d-4ba5-8af3-165517f0ff1d/public_url)|
 | Machine Learning with Python  | IBM / Coursera | Apr 24, 2026   | [📄 Coursera](https://coursera.org/share/80db66f838d81834c466c2bb950977a1) ,[🏅 Credly](https://www.credly.com/badges/7339fad2-ff19-43db-b46b-f0cf1a771564/public_url)|
 | Data Visualization with Python  | IBM / Coursera | Apr 16, 2026   | [📄 Coursera](https://coursera.org/share/586c2ddd53fa5e5cab9cb163cb817a0c) ,[🏅 Credly](https://www.credly.com/badges/c50d2394-4c01-4bcd-84d7-8115f7161125/public_url)|
