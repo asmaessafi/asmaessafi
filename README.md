@@ -80,6 +80,8 @@ Comprehensive training in front-end/back-end, modern frameworks, responsive appl
 
 | Certification                              | Issuer     | Issued          | Verification Link                                                                 |
 |--------------------------------------------|------------|-----------------|-----------------------------------------------------------------------------------|
+|IBM Data Science Professional Certificate (V3) | IBM / Coursera | May 05, 2026   | [📄 Coursera](https://coursera.org/share/d497e074a46381ad772e8a5e4739fe40) ,[🏅 Credly](https://www.credly.com/badges/87413f97-a18f-47f1-961b-008afd3971e2/public_url)|
+|Data Scientist Career Guide and Interview Preparation| IBM / Coursera | May 05, 2026   | [📄 Coursera](https://coursera.org/share/e888dcf5285aeb091287521f92391f49) ,[🏅 Credly](https://www.credly.com/badges/9d7b3a43-c96e-474e-b4d1-ba8bddd35eea/public_url)|
 |Generative AI: Elevate Your Data Science Career| IBM / Coursera | Apr 30, 2026   | [📄 Coursera](https://coursera.org/share/0535b809145ef1d5ae37a72352dd9eb0) ,[🏅 Credly](https://www.credly.com/badges/811e0e4a-dc18-43cf-8adb-80c8cd12c480/public_url)|
 | Applied Data Science Capstone | IBM / Coursera | Apr 28, 2026   | [📄 Coursera](https://coursera.org/share/a43a48706a8ba234d34509356304c521) ,[🏅 Credly](https://www.credly.com/badges/80309a82-af9d-4ba5-8af3-165517f0ff1d/public_url)|
 | Machine Learning with Python  | IBM / Coursera | Apr 24, 2026   | [📄 Coursera](https://coursera.org/share/80db66f838d81834c466c2bb950977a1) ,[🏅 Credly](https://www.credly.com/badges/7339fad2-ff19-43db-b46b-f0cf1a771564/public_url)|
